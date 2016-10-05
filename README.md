@@ -1,4 +1,4 @@
-# GoogleAppsScript-Firebase-Elm
+# GoogleAppsScript-Firebase-Elm - [Live](https://gas-firebase-elm.firebaseapp.com/)
 PoC - Google Apps Script stores data in Firebase and Elm displays them.
 
 ## Build Instructions
